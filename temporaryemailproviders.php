@@ -116,6 +116,8 @@ $temporaryEmailProviders = array(
 "teleworm.us"=>1,
 "fakeinbox.com"=>1,
 "armyspy.com"=>1,
+"dayrep.com"=>1,
+"trbvm.com"=>1,
 "mailnull.com"=>1,
 );
 
