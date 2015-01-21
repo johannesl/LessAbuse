@@ -118,6 +118,7 @@ $temporaryEmailProviders = array(
 "armyspy.com"=>1,
 "dayrep.com"=>1,
 "trbvm.com"=>1,
+"ce.mintemail.com"=>1,
 "mailnull.com"=>1,
 );
 
