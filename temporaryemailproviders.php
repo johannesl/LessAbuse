@@ -1,6 +1,6 @@
 <?/*
 
-  Last update: 2013-05-28
+  Last update: 2015-03-13
 
   A collection of domain names used by disposable / temporary email providers.
   Useful if you want to block a big part of fake registrations on a website.
@@ -119,6 +119,8 @@ $temporaryEmailProviders = array(
 "dayrep.com"=>1,
 "trbvm.com"=>1,
 "ce.mintemail.com"=>1,
+"sharklasers.com"=>1,
+"guerillamail.org"=>1,
 "mailnull.com"=>1,
 );
 
