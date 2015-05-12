@@ -122,6 +122,7 @@ $temporaryEmailProviders = array(
 "sharklasers.com"=>1,
 "guerillamail.org"=>1,
 "mailnull.com"=>1,
+"grr.la"=>1,
 );
 
 ?>
