@@ -1,6 +1,6 @@
 <?/*
 
-  Last update: 2015-03-13
+  Last update: 2015-05-12
 
   A collection of domain names used by disposable / temporary email providers.
   Useful if you want to block a big part of fake registrations on a website.
