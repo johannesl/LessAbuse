@@ -123,6 +123,10 @@ $temporaryEmailProviders = array(
 "guerillamail.org"=>1,
 "mailnull.com"=>1,
 "grr.la"=>1,
+"spam4.me"=>1,
+"guerrillamail.net"=>1,
+"guerrillamail.de"=>1,
+"guerrillamail.biz"=>1,
 );
 
 ?>
