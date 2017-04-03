@@ -16,6 +16,8 @@
 */
 
 $temporaryEmailProviders = array(
+"textnow.me"=>1,
+"decoded-mail.com"=>1,
 "trbvn.com"=>1,
 "emailgo.de"=>1,
 "mbx.cc"=>1,
