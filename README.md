@@ -1,6 +1,6 @@
 # Tools to make abuse less fun
 
-Collections and code by Johannes Lundberg. Send updates and fixes to first.last@gmail.com
+Collections and code by Johannes Ridderstedt. Send updates and fixes to johannesl@46elks.com.
 
 Use freely. Public domain.
 
